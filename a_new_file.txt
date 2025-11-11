@@ -3,3 +3,4 @@ Another dummy file.
 Added a line here!
 
 Added this line while being in the test branch
+Another line
